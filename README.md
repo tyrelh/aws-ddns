@@ -3,7 +3,7 @@ This script will update a given DNS record in AWS with the current public IP add
 
 ### Dependencies
 * `aws-sdk`
-* `axios`
+* `node-fetch`
 * An AWS account with access credentials configured for environment the script will run in.
 
 ### References
