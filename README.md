@@ -1,4 +1,4 @@
-# Node Dynamic DNS
+# AWS Route53 Dynamic DNS
 This script will update a given DNS record in AWS with the current public IP address of the device running the script.
 
 ### Dependencies
